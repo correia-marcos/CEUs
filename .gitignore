@@ -1,0 +1,29 @@
+# R history files
+.Rhistory
+.Rapp.history
+
+# RStudio’s user-specific folder
+.Rproj.user/
+
+# Data or cache files
+*.RData
+*.rda
+*.rds
+
+# Intermediate files
+*.o
+*.so
+*.dll
+*.pyc
+__pycache__/
+
+# If using renv and you don’t want to commit the entire local library
+renv/library/
+renv/python/
+
+# R cache
+.Rcache/
+
+# If you do not want to commit the lockfile (though it’s generally
+# recommended to keep it for reproducibility):
+# renv.lock
