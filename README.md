@@ -23,7 +23,7 @@ This project aims to evaluate the general impact of the “Centro Educacional Un
 
 - R version >= 4.0
 - [renv](https://rstudio.github.io/renv/) for project environment and package management
-- Additional CRAN packages: `tidyverse`, `data.table`, `sf` (update according to your needs)
+- Additional CRAN packages: `tidyverse`, `data.table`, `sf`, `ggplot` and others
 
 ## Usage
 
@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE.md) – see the license
 
 ## Contact
 
-For questions or collaboration, please reach out to [Your Name] at [your-email@example.com].
+For questions or collaboration, please reach out to [Marcos Paulo] at [marcospaulorcorreia@gmail.com].
