@@ -30,3 +30,4 @@ renv/python/
 # If you do not want to commit the lockfile (though it’s generally
 # recommended to keep it for reproducibility):
 # renv.lock
+.DS_Store
